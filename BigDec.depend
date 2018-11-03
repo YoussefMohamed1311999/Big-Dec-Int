@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1540971315 source:d:\fci-assignments\programming ii\a2\classes programs\bigdec\bigdec.cpp
+	"BigDec.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<iomanip>
+
+1541014053 d:\fci-assignments\programming ii\a2\classes programs\bigdec\bigdec.h
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<iomanip>
+
+1541010526 source:d:\fci-assignments\programming ii\a2\classes programs\bigdec\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<iomanip>
+	"BigDec.h"
+
